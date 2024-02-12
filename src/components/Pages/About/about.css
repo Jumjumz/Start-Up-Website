@@ -46,7 +46,7 @@
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
-        height: 120rem;
+        height: 150rem;
     }
     
     .card-emp {
@@ -129,7 +129,7 @@
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
-        height: 100rem;
+        height: 150rem;
     }
     
     .card-emp {
