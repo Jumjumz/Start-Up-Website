@@ -1,0 +1,456 @@
+@media (min-width: 1850px) {
+    .spn-sec {
+        margin-left: 8rem;
+        margin-right: 8rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 20rem;
+        font-size: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 1rem;
+    }
+
+    .sup-img {
+        width: 90%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 2rem;
+        width: 100%;
+        height: 10rem;
+    }
+
+    .logo-wrp {
+        width: 6rem;
+        height: 6rem;
+    }
+    
+    .spn-logo {
+        width: 6rem;
+        height: 6rem;
+    }
+    
+}
+
+@media (max-width: 1850px) {
+    .spn-sec {
+        margin-left: 8rem;
+        margin-right: 8rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 20rem;
+        font-size: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 1rem;
+    }
+
+    .sup-img {
+        width: 80%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 2rem;
+        width: 100%;
+        height: 10rem;
+    }
+
+    .logo-wrp {
+        width: 6rem;
+        height: 6rem;
+    }
+    
+    .spn-logo {
+        width: 6rem;
+        height: 6rem;
+    }
+}
+
+@media (max-width: 1442px) {
+    .spn-sec {
+        margin-left: 8rem;
+        margin-right: 8rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 20rem;
+        font-size: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 1rem;
+    }
+
+    .sup-img {
+        width: 80%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 2rem;
+        width: 100%;
+        height: 8rem;
+    }
+
+    .logo-wrp {
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .spn-logo {
+        width: 4rem;
+        height: 4rem;
+    }
+}
+
+@media (max-width: 1280px) {
+    .spn-sec {
+        margin-left: 5rem;
+        margin-right: 5rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 20rem;
+        font-size: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 5rem 1rem 1rem 1rem;
+    }
+
+    .sup-img {
+        width: 80%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 2rem;
+        width: 100%;
+        height: 8rem;
+    }
+
+    .logo-wrp {
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .spn-logo {
+        width: 4rem;
+        height: 4rem;
+    }
+}
+
+@media (max-width: 1022px) {
+    .spn-sec {
+        margin-left: 5rem;
+        margin-right: 5rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 30rem;
+        font-size: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 5rem 1rem 1rem 1rem;
+    }
+
+    .sup-img {
+        width: 80%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 1rem;
+        width: 100%;
+        height: 5rem;
+    }
+
+    .logo-wrp {
+        width: 3rem;
+        height: 3rem;
+    }
+    
+    .spn-logo {
+        width: 3rem;
+        height: 3rem;
+    }
+}
+
+@media (max-width: 770px) {
+    .spn-sec {
+        margin-left: 5rem;
+        margin-right: 5rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 30rem;
+        font-size: 85px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 12rem 1rem 1rem 1rem;
+    }
+
+    .sup-img {
+        width: 80%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 1rem;
+        width: 100%;
+        height: 4rem;
+    }
+
+    .logo-wrp {
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    .spn-logo {
+        width: 2rem;
+        height: 2rem;
+    }
+}
+
+@media (max-width: 670px) {
+    .spn-sec {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 30rem;
+        font-size: 80px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 12rem 0 1rem 0;
+    }
+
+    .sup-img {
+        width: 90%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 1rem;
+        width: 100%;
+        height: 4rem;
+    }
+
+    .logo-wrp {
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    .spn-logo {
+        width: 2rem;
+        height: 2rem;
+    }
+}
+
+@media (max-width: 530px) {
+    .spn-sec {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        padding-top: 10rem;
+        padding-bottom: 12rem;
+    }
+
+    .spn-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1000px;
+        overflow: clip;
+    }
+
+    .spn-cont h1 {
+        width: 100%;
+        height: 25rem;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.7rem;
+        text-align: center;
+        margin: 0;
+        padding: 12rem 0 1rem 0;
+    }
+
+    .sup-img {
+        width: 90%;
+        height: 70rem;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .logo-cont {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-evenly;
+        background-color: white;
+        padding: 1rem;
+        width: 100%;
+        height: 4rem;
+    }
+
+    .logo-wrp {
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    .spn-logo {
+        width: 2rem;
+        height: 2rem;
+    }
+}
